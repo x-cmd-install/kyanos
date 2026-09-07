@@ -5,13 +5,13 @@ about:
   head: 801deff
   archived: false
   latestVersion: "v1.6.0"
-  collectedAt: 2026-09-07T04:47:41Z
+  collectedAt: 2026-09-07T19:42:18Z
 timeline:
   created: 2024-04-30
   lastCommit: 2026-06-16
   lastRelease: 2026-06-10
 popularity:
-  star: 5071
+  star: 5070
   watcher: 24
   fork: 235
   release: 15
@@ -83,7 +83,7 @@ total:
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/hengyoush/kyanos
-collectedAt: 2026-09-07T04:47:44Z
+collectedAt: 2026-09-07T19:42:21Z
 loc:
   CHeader:
     code: 857818
@@ -149,7 +149,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:47:45+00:00
+  collectedAt: 2026-09-07T19:42:23+00:00
   platform:
     darwin/arm64:
       name:  null
