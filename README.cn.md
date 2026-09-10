@@ -12,6 +12,18 @@ Kyanos is a networking analysis tool using eBPF. It can visualize the time packe
 x install kyanos
 ```
 
+## 代码规模
+
+合计: **902,189** 行代码（覆盖前 5 种语言、共 **270** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| CHeader | 857,818 | 185 | 108,055 | 13 |
+| Go | 31,909 | 2,085 | 3,742 | 192 |
+| Json | 7,433 | 0 | 0 | 3 |
+| C | 3,065 | 380 | 728 | 21 |
+| Sh | 1,707 | 186 | 413 | 41 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/hengyoush/kyanos>
@@ -23,14 +35,6 @@ x install kyanos
 - **最新版本**: `v1.6.0` (2026-06-10)
 - **最近提交**: 2026-06-16
 - **Release 含资产**: 3 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [checksums.txt](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/checksums.txt) | 196 B | `other` |
-| [kyanos_1.6.0_linux_amd64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_amd64.tar.gz) | 13.2 MiB | `native/linux/x64` |
-| [kyanos_1.6.0_linux_arm64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_arm64.tar.gz) | 10.5 MiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -45,20 +49,19 @@ x install kyanos
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 5 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 1 | 3 | 10 | 0 | 0 | 4 |
 | 360d | 2025-09-15 | 1 | 7 | 13 | 0 | 4 | 17 |
+| last720d | 2024-09-20 | 8 | 136 | 21 | 79 | 11 | 425 |
 
-## 代码规模
+## Release 资产
 
-合计: **902,189** 行代码（覆盖前 5 种语言、共 **270** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| CHeader | 857,818 | 185 | 108,055 | 13 |
-| Go | 31,909 | 2,085 | 3,742 | 192 |
-| Json | 7,433 | 0 | 0 | 3 |
-| C | 3,065 | 380 | 728 | 21 |
-| Sh | 1,707 | 186 | 413 | 41 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/checksums.txt) | 196 B | `other` |
+| [kyanos_1.6.0_linux_amd64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_amd64.tar.gz) | 13.2 MiB | `native/linux/x64` |
+| [kyanos_1.6.0_linux_arm64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_arm64.tar.gz) | 10.5 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -69,4 +72,4 @@ kyanos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:53:02Z._
