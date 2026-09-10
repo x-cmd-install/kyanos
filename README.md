@@ -23,7 +23,14 @@ x install kyanos
 - **Latest**: `v1.6.0` (2026-06-10)
 - **Last commit**: 2026-06-16
 - **Assets in release**: 3
-- **Published**: 2026-06-10T13:07:39Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/checksums.txt) | 196 B | `other` |
+| [kyanos_1.6.0_linux_amd64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_amd64.tar.gz) | 13.2 MiB | `native/linux/x64` |
+| [kyanos_1.6.0_linux_arm64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_arm64.tar.gz) | 10.5 MiB | `native/linux/arm64` |
 
 ## Popularity
 
@@ -58,8 +65,8 @@ Total: **902,189** lines of code across **270** files in the top 5 languages.
 Install metadata for kyanos lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kyanos` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kyanos.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kyanos.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:31Z._

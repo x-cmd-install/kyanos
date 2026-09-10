@@ -4,7 +4,7 @@
 
 Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 
-![kyanos](https://repo.x-cmd.io/kyanos.svg)
+![kyanos](https://repo.x-cmd.io/kyanos.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,14 @@ x install kyanos
 - **最新版本**: `v1.6.0` (2026-06-10)
 - **最近提交**: 2026-06-16
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-06-10T13:07:39Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/checksums.txt) | 196 B | `other` |
+| [kyanos_1.6.0_linux_amd64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_amd64.tar.gz) | 13.2 MiB | `native/linux/x64` |
+| [kyanos_1.6.0_linux_arm64.tar.gz](https://github.com/hengyoush/kyanos/releases/download/v1.6.0/kyanos_1.6.0_linux_arm64.tar.gz) | 10.5 MiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -62,4 +69,4 @@ kyanos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:48:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:31Z._
