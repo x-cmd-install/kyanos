@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.0"
   latestRelease: "v1.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:46:47Z
+  collectedAt: 2026-09-11T20:21:46Z
 timeline:
   created: 2024-04-30
   lastCommit: 2026-06-16
@@ -87,7 +87,7 @@ total:
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/hengyoush/kyanos
-collectedAt: 2026-09-11T04:46:51Z
+collectedAt: 2026-09-11T20:21:52Z
 loc:
   CHeader:
     code: 857818
