@@ -4,7 +4,7 @@
 
 Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 
-![kyanos](https://repo.x-cmd.io/kyanos.svg)
+[![x-cmd/install — kyanos Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kyanos.svg)](https://x-cmd.com/install/kyanos)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **902,189** lines of code across **270** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,067 · **Forks**: 235 · **Open issues**: 102 · **Contributors**: 11
+- **Stars**: 5,068 · **Forks**: 234 · **Open issues**: 102 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **902,189** lines of code across **270** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 1 | 3 | 10 | 0 | 0 | 4 |
-| 360d | 2025-09-23 | 1 | 7 | 13 | 0 | 4 | 17 |
-| last720d | 2024-09-28 | 8 | 135 | 21 | 77 | 11 | 416 |
+| 30d | 2026-08-21 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 1 | 3 | 10 | 0 | 0 | 4 |
+| 360d | 2025-09-25 | 1 | 7 | 13 | 0 | 4 | 17 |
+| last720d | 2024-09-30 | 8 | 135 | 21 | 77 | 11 | 414 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for kyanos lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:54:05Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:06:30Z._
