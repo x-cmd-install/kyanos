@@ -38,22 +38,22 @@ Total: **902,189** lines of code across **270** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,071 · **Forks**: 235 · **Open issues**: 102 · **Contributors**: 11
+- **Stars**: 5,071 · **Forks**: 235 · **Open issues**: 103 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 171 · **Open PRs**: 21 · **Closed issues**: 91 · **Open issues**: 11 · **Commits**: 621
+- **Releases**: 15 · **Merged PRs**: 171 · **Open PRs**: 21 · **Closed issues**: 91 · **Open issues**: 12 · **Commits**: 621
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-04-04 | 1 | 3 | 8 | 0 | 0 | 4 |
-| 360d | 2025-10-06 | 1 | 7 | 13 | 0 | 4 | 17 |
-| last720d | 2024-10-11 | 8 | 130 | 21 | 77 | 11 | 395 |
+| 30d | 2026-09-02 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-08-03 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-07-04 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last180d | 2026-04-05 | 1 | 3 | 8 | 0 | 1 | 4 |
+| 360d | 2025-10-07 | 1 | 7 | 13 | 0 | 5 | 17 |
+| last720d | 2024-10-12 | 8 | 130 | 21 | 77 | 12 | 393 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for kyanos lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:56:46Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:43:01Z._
